@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://circuit-test-zk76.onrender.com';
+const API_BASE_URL = 'https://circuit-test-zk76.onrender.com/api';
 
 /**
  * Uploads a circuit image file to the backend
